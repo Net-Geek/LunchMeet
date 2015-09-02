@@ -35,8 +35,5 @@
     <string name="create_new_date">Create new date</string>
     <string name="pick_a_place">Pick a place</string>
     <string name="pick_a_date">Pick a date and time</string>
-    <string name="title_activity_splash_screen">SplashScreen</string>
-
-    <string name="hello_world">Hello world!</string>
 
 </resources>
