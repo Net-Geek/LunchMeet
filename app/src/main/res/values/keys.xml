@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_url">https://lunchdate.firebaseio.com</string>
+    <string name="facebook_app_id">747228212054610</string>
+    <string name="twitter_consumer_key">XWSc7l0dM2EaHk6ro1A76LS7h</string>
+    <string name="twitter_consumer_secret">L5XIsPpkWUkkxeCXwYsrlV81mBvC6j8Zz1PP7KJIgfS2eGjXdg</string>
+</resources>
