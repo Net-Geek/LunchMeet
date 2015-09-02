@@ -454,14 +454,14 @@ public class LoginActivity extends AppCompatActivity implements
 
         @Override
         public void onAuthenticated(AuthData authData) {
-            mAuthProgressDialog.hide();
+            mAuthProgressDialog.dismiss();
             Log.i(TAG, provider + " auth successful");
             setAuthenticatedUser(authData);
         }
 
         @Override
         public void onAuthenticationError(FirebaseError firebaseError) {
-            mAuthProgressDialog.hide();
+            mAuthProgressDialog.dismiss();
             showErrorDialog(firebaseError.getMessage());
         }
     }
