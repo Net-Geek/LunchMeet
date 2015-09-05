@@ -13,7 +13,7 @@
     <application
         android:name=".LunchMeetApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_lunch_meet_24dp"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <meta-data
